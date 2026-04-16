@@ -39,6 +39,9 @@ Planned improvements for the project include:
 - Improving the user interface and user experience
 - Deploying the application to AWS
 
+# YouTube link MileStone 1
+ https://youtu.be/sw-mpkqt8vU
+
 ## How to Run
 1. Clone the repository:
    ```bash
